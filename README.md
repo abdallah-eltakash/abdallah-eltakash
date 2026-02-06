@@ -1,5 +1,3 @@
-<h1 align="center">you found a secret</h1>
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
